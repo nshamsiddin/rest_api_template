@@ -1,0 +1,492 @@
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:32:27.160Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T04:32:28.204Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:36:37.294Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T04:36:38.320Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:36:39.820Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T04:36:40.834Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:36:42.466Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:36:43.963Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:36:44.976Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T04:36:45.993Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:36:48.671Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T04:36:49.692Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:36:52.788Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:36:54.140Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T04:36:55.173Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:37:11.345Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T04:37:12.370Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:37:17.735Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T04:37:18.753Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:37:20.900Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T04:37:21.916Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:37:26.240Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T04:37:27.256Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:41:08.831Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T04:41:09.867Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:41:13.222Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T04:41:14.243Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:41:18.794Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T04:41:19.820Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:41:25.291Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T04:41:26.312Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:42:09.363Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T04:42:10.400Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:42:13.612Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T04:42:14.637Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:42:17.207Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T04:42:18.243Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:42:21.080Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T04:42:22.108Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:42:24.471Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T04:42:25.501Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:42:28.029Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:42:30.001Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T04:42:31.024Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:42:32.551Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T04:42:33.574Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:42:36.585Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T04:42:37.617Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:42:40.121Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T04:42:41.141Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:42:44.975Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T04:42:45.999Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:42:47.368Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T04:42:48.421Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:42:59.568Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T04:43:00.596Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:43:09.721Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T04:43:10.745Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:44:21.308Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T04:44:22.332Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:44:25.769Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:44:27.993Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:44:29.896Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T04:44:30.914Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:44:44.304Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T04:44:45.336Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:44:46.506Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T04:44:47.528Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:44:59.736Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T04:45:00.773Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:45:09.421Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T04:45:10.445Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:49:13.955Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T04:49:14.991Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:49:20.108Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T04:49:21.146Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:49:43.424Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T04:49:44.465Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:49:48.288Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T04:49:49.338Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:53:03.891Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T04:53:04.912Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:53:37.815Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T04:53:38.833Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:53:41.177Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T04:53:42.197Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:53:47.354Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T04:53:48.376Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T04:54:03.890Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T04:54:04.914Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:17:33.172Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:17:34.204Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:18:25.509Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:18:26.548Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:18:32.979Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:18:34.049Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:24:18.549Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:24:19.566Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:24:21.818Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:24:22.839Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:24:24.357Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:24:25.371Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:24:31.885Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:24:32.902Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:25:24.480Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:25:25.498Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:30:04.134Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:30:05.159Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:30:07.151Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:30:08.168Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:30:12.802Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:30:13.764Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:30:14.782Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:30:53.698Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:30:55.581Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:30:56.605Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:31:01.084Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:31:02.107Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:31:08.228Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:31:09.249Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:31:11.908Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:31:13.684Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:31:14.713Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:31:17.604Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:31:18.624Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:31:23.774Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:31:24.789Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:31:27.307Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:31:28.596Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:31:29.615Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:31:38.073Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:31:39.101Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:31:43.432Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:31:44.949Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:31:45.966Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:31:49.688Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:31:50.706Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:31:58.105Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:31:59.122Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:34:02.919Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:34:03.940Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:34:24.586Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:34:25.602Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:39:31.647Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:39:32.664Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:39:34.836Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:39:35.856Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:39:42.991Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:39:44.494Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:39:45.513Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:39:52.626Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:39:53.641Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:40:01.776Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:40:02.796Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:40:04.151Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:40:05.178Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:40:46.729Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:40:48.437Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:40:49.456Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:40:53.933Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:40:54.949Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:41:51.590Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:41:52.713Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:41:54.359Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:41:55.375Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:41:56.713Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:41:58.417Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:41:59.434Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:42:01.289Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:42:02.308Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:42:04.093Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:42:05.109Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:42:22.740Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:42:23.755Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:42:24.851Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:42:25.880Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:42:31.700Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:42:32.717Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:42:34.104Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:42:35.467Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:42:36.492Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:42:38.385Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:42:39.402Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:42:41.741Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:42:42.758Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:42:47.593Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:42:48.610Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:42:51.432Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:42:52.451Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:42:54.170Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:42:55.187Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:43:07.700Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:43:08.991Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:43:10.442Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:43:11.458Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:43:13.735Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:43:14.753Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:43:17.776Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:43:18.796Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:43:20.008Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:43:21.024Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:43:22.243Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:43:23.268Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:43:26.032Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:43:27.053Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:43:28.062Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:43:29.723Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:43:30.745Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:43:32.834Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:43:33.851Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:43:41.207Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:43:42.227Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:43:51.333Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:43:52.349Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:44:30.987Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:44:32.004Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:45:16.173Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:45:17.187Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:45:31.271Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:45:33.928Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:45:34.944Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:45:36.882Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:45:37.909Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:45:54.677Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:45:55.696Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:46:12.126Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:46:13.142Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:46:16.535Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:46:17.555Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:46:19.887Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:46:20.907Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:46:25.839Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:46:26.865Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:46:27.995Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:46:29.011Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:46:34.298Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:46:35.317Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:46:41.053Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:46:42.031Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:46:43.052Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:46:44.417Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:46:45.436Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:46:47.169Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:46:48.187Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:46:53.033Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:46:54.061Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:46:54.875Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:46:55.892Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:47:26.699Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:47:27.720Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:47:30.705Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:47:31.992Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:47:33.008Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:47:34.265Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:47:35.295Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:47:40.741Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:47:41.759Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:47:47.679Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:47:48.717Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:47:49.573Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:47:50.588Z"}
+{"message":null,"level":"error","timestamp":"2019-03-25T05:47:53.482Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:48:14.619Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:48:15.635Z"}
+{"message":null,"level":"error","timestamp":"2019-03-25T05:48:16.688Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:48:27.348Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:48:28.518Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:48:29.535Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:48:32.190Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:48:33.211Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:48:47.572Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:48:48.589Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:49:42.873Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:49:43.894Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:52:39.477Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:52:40.810Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:52:41.827Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:52:48.910Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:52:49.926Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:52:59.529Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:53:00.547Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:53:02.987Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:53:04.004Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:56:57.636Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:56:58.659Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:57:02.902Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:57:03.924Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:57:26.255Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:57:27.832Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:57:28.848Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:58:50.608Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:58:51.623Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:59:16.938Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:59:17.958Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:59:30.545Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:59:31.568Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T05:59:35.608Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T05:59:36.628Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:00:07.428Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T06:00:08.446Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:00:10.980Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T06:00:12.002Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:00:13.611Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T06:00:14.634Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:00:40.494Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T06:00:41.510Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:00:47.442Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T06:00:48.458Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:02:51.815Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T06:02:52.833Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:03:02.447Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T06:03:03.464Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:03:29.027Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T06:03:30.047Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:03:31.686Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T06:03:32.701Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:06:40.887Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T06:06:41.914Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:10:36.985Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T06:10:38.003Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:10:46.816Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T06:10:47.840Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:10:58.170Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T06:10:59.187Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:11:02.627Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T06:11:03.641Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:16:00.549Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T06:16:01.579Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:16:02.930Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T06:16:03.948Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:16:22.566Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T06:16:23.583Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:16:33.372Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T06:16:34.399Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:16:36.476Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:16:38.337Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:16:39.870Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T06:16:40.892Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:16:51.807Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/test","level":"info","timestamp":"2019-03-25T06:16:52.823Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:17:10.280Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:17:11.297Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:17:19.988Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:17:21.005Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:17:26.466Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:17:27.491Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:17:45.748Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:17:46.776Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:17:48.240Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:17:49.258Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:17:56.369Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:17:57.388Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:17:59.606Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:18:00.623Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:18:04.268Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:18:05.288Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:18:06.745Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:18:07.775Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:18:08.678Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:18:09.697Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:18:12.855Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:18:13.880Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:18:18.750Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:18:19.767Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:18:29.288Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:18:30.307Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:18:31.515Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:18:32.535Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:18:36.934Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:18:37.953Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:18:40.439Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:18:41.458Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:18:45.670Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:18:46.695Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:18:49.092Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:18:50.105Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:18:51.954Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:18:53.696Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:18:55.286Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:18:56.307Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:18:57.362Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:18:58.378Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:19:05.591Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:19:07.087Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:19:08.103Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:19:10.974Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:19:11.995Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:19:30.977Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:19:31.995Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:19:37.988Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:19:39.011Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:19:43.672Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:19:44.688Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:21:01.582Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:21:02.603Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:26:56.727Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:26:57.758Z"}
+{"errors":{"type":{"message":"Path `type` is required.","name":"ValidatorError","properties":{"message":"Path `type` is required.","type":"required","path":"type"},"kind":"required","path":"type"}},"_message":"Request validation failed","message":"Request validation failed: type: Path `type` is required.","name":"ValidationError","level":"error","timestamp":"2019-03-25T06:27:08.328Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:28:00.683Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:28:02.551Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:28:03.867Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:28:04.895Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:28:06.607Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:28:07.627Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:28:40.154Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:28:41.185Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:28:58.819Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:28:59.835Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:29:01.860Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:29:02.877Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:29:11.562Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:29:12.579Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:31:47.320Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:31:48.337Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:31:50.845Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:31:51.863Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:31:54.502Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:31:55.528Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:32:02.199Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:32:03.229Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:32:08.610Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:32:10.064Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:32:11.082Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:32:13.652Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:32:15.197Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:32:16.216Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:33:51.462Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:33:53.347Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:33:54.366Z"}
+{"errors":{"type":{"message":"Path `type` is required.","name":"ValidatorError","properties":{"message":"Path `type` is required.","type":"required","path":"type"},"kind":"required","path":"type"},"msisdn":{"message":"Path `msisdn` is required.","name":"ValidatorError","properties":{"message":"Path `msisdn` is required.","type":"required","path":"msisdn"},"kind":"required","path":"msisdn"}},"_message":"Request validation failed","message":"Request validation failed: type: Path `type` is required., msisdn: Path `msisdn` is required.","name":"ValidationError","level":"error","timestamp":"2019-03-25T06:33:59.056Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:34:09.494Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:34:10.539Z"}
+{"errors":{"type":{"message":"Path `type` is required.","name":"ValidatorError","properties":{"message":"Path `type` is required.","type":"required","path":"type"},"kind":"required","path":"type"},"msisdn":{"message":"Path `msisdn` is required.","name":"ValidatorError","properties":{"message":"Path `msisdn` is required.","type":"required","path":"msisdn"},"kind":"required","path":"msisdn"}},"_message":"Request validation failed","message":"Request validation failed: type: Path `type` is required., msisdn: Path `msisdn` is required.","name":"ValidationError","level":"error","timestamp":"2019-03-25T06:34:12.451Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:34:23.668Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:34:24.688Z"}
+{"errors":{"type":{"message":"Path `type` is required.","name":"ValidatorError","properties":{"message":"Path `type` is required.","type":"required","path":"type"},"kind":"required","path":"type"},"msisdn":{"message":"Path `msisdn` is required.","name":"ValidatorError","properties":{"message":"Path `msisdn` is required.","type":"required","path":"msisdn"},"kind":"required","path":"msisdn"}},"_message":"Request validation failed","message":"Request validation failed: type: Path `type` is required., msisdn: Path `msisdn` is required.","name":"ValidationError","level":"error","timestamp":"2019-03-25T06:34:26.301Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:35:06.979Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:35:07.997Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:35:10.052Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:35:11.071Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:36:10.321Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:36:11.338Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:36:13.679Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:36:14.697Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:36:20.136Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:36:21.150Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:36:23.282Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:36:24.302Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:36:27.399Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:36:28.416Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:36:29.734Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:36:30.750Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:36:32.037Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:36:33.056Z"}
+{"errors":{"type":{"message":"Path `type` is required.","name":"ValidatorError","properties":{"message":"Path `type` is required.","type":"required","path":"type"},"kind":"required","path":"type"},"msisdn":{"message":"Path `msisdn` is required.","name":"ValidatorError","properties":{"message":"Path `msisdn` is required.","type":"required","path":"msisdn"},"kind":"required","path":"msisdn"}},"_message":"Request validation failed","message":"Request validation failed: type: Path `type` is required., msisdn: Path `msisdn` is required.","name":"ValidationError","level":"error","timestamp":"2019-03-25T06:36:33.181Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:36:44.237Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:36:45.252Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:41:16.476Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:41:17.493Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:41:24.015Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:41:25.033Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:41:29.679Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:41:30.698Z"}
+{"errors":{"type":{"message":"Path `type` is required.","name":"ValidatorError","properties":{"message":"Path `type` is required.","type":"required","path":"type"},"kind":"required","path":"type"},"msisdn":{"message":"Path `msisdn` is required.","name":"ValidatorError","properties":{"message":"Path `msisdn` is required.","type":"required","path":"msisdn"},"kind":"required","path":"msisdn"}},"_message":"Request validation failed","message":"Request validation failed: type: Path `type` is required., msisdn: Path `msisdn` is required.","name":"ValidationError","level":"error","timestamp":"2019-03-25T06:41:32.213Z"}
+{"errors":{"msisdn":{"message":"Path `msisdn` is required.","name":"ValidatorError","properties":{"message":"Path `msisdn` is required.","type":"required","path":"msisdn"},"kind":"required","path":"msisdn"}},"_message":"Request validation failed","message":"Request validation failed: msisdn: Path `msisdn` is required.","name":"ValidationError","level":"error","timestamp":"2019-03-25T06:41:40.473Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:41:54.712Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:41:55.729Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:43:40.844Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:43:41.869Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:43:43.444Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:43:44.466Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:44:00.029Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:44:01.057Z"}
+{"errors":{"msisdn":{"message":"Path `msisdn` is required.","name":"ValidatorError","properties":{"message":"Path `msisdn` is required.","type":"required","path":"msisdn"},"kind":"required","path":"msisdn"}},"_message":"Request validation failed","message":"Request validation failed: msisdn: Path `msisdn` is required.","name":"ValidationError","level":"error","timestamp":"2019-03-25T06:44:12.381Z"}
+{"errors":{"msisdn":{"message":"Path `msisdn` is required.","name":"ValidatorError","properties":{"message":"Path `msisdn` is required.","type":"required","path":"msisdn"},"kind":"required","path":"msisdn"}},"_message":"Request validation failed","message":"Request validation failed: msisdn: Path `msisdn` is required.","name":"ValidationError","level":"error","timestamp":"2019-03-25T06:45:02.389Z"}
+{"errors":{"msisdn":{"message":"Path `msisdn` is required.","name":"ValidatorError","properties":{"message":"Path `msisdn` is required.","type":"required","path":"msisdn"},"kind":"required","path":"msisdn"}},"_message":"Request validation failed","message":"Request validation failed: msisdn: Path `msisdn` is required.","name":"ValidationError","level":"error","timestamp":"2019-03-25T06:45:12.477Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T06:45:17.731Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T06:45:18.749Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T08:49:09.805Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T08:49:10.909Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T08:49:11.926Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T08:49:14.461Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T08:49:15.493Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T08:49:17.899Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T08:49:18.919Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T09:14:13.848Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T09:14:14.875Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T09:17:21.197Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T09:17:22.578Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T09:17:23.595Z"}
+{"message":"Server started listening on port 3000","level":"info","timestamp":"2019-03-25T09:18:41.941Z"}
+{"message":"Connected to MongoDB at: mongodb://localhost:27017/kafka","level":"info","timestamp":"2019-03-25T09:18:42.958Z"}
